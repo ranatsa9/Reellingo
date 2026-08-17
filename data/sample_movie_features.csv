@@ -1,0 +1,6 @@
+movie_id,title,genres,taste_score,vocabulary_rarity,avg_sentence_length,dialogue_density,slang_intensity,relative_difficulty
+sample_001,Example Space Journey,Science Fiction|Drama,0.91,0.42,10.7,0.68,0.18,medium
+sample_002,Example City Mystery,Mystery|Comedy,0.86,0.31,8.9,0.74,0.23,medium
+sample_003,Example Family Adventure,Adventure|Family,0.79,0.18,6.4,0.51,0.08,low
+sample_004,Example Historical Drama,Drama|History,0.72,0.67,15.2,0.82,0.12,high
+
